@@ -1,0 +1,11 @@
+[package]
+name = "giksn-agents-core"
+description = "Messages, content blocks, the model trait, the tool trait, structured output and stream events. Planned."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+publish.workspace = true
+
+[lints]
+workspace = true

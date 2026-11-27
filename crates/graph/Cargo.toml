@@ -1,0 +1,11 @@
+[package]
+name = "giksn-agents-graph"
+description = "Graph runtime: nodes, edges, branches, fan-out, supersteps, interrupts and subgraphs. Planned."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+publish.workspace = true
+
+[lints]
+workspace = true

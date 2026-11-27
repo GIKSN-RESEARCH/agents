@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+.DS_Store
+.ipynb_checkpoints/
+*.safetensors
+*.gguf
+/models/

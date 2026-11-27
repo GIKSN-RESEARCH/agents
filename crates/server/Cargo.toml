@@ -1,0 +1,11 @@
+[package]
+name = "giksn-agents-server"
+description = "HTTP server for assistants, threads, runs and streams. Planned."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+publish.workspace = true
+
+[lints]
+workspace = true
